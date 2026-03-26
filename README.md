@@ -1,6 +1,6 @@
 # 🔢 MNIST Digit Recognition
 
-This project recognizes handwritten digits (0–9) from the MNIST dataset using machine learning models.  
+This project task 3 Developershub Corporation recognizes handwritten digits (0–9) from the MNIST dataset using machine learning models.  
 It includes data preprocessing, model training with Logistic Regression and CNN, evaluation using accuracy and confusion matrix, and comparison of results.
 
 ## 🚀 Project Workflow
